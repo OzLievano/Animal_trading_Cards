@@ -1,1 +1,30 @@
 /* add your CSS here */
+
+ .facts {font-style: italic;
+}
+
+li span {font-weight: bold;
+        font-size: 12pt;
+}
+
+li {list-style: none;
+    font-size: 12pt;
+    float:left;
+}
+
+.infoborder {border: 1px solid grey;
+             width: 280px;
+             height: 350px;
+             display: flex;
+             flex-wrap: wrap;
+             padding: 10px;
+}
+
+body {border: 1px solid grey;
+            width: 300px;
+            height: 630px;
+            display: flex;
+            flex-wrap: wrap;
+            padding: 15px;
+
+}
